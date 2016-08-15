@@ -1,0 +1,5 @@
+* Make PrintSub a print argument
+* Expose rotate
+* Look at old ASCII tables maybe ATASCII for characters?
+* Expose gap?
+* Add colors
